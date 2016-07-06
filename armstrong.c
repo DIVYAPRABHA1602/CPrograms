@@ -10,4 +10,4 @@ rem=n%10;
 num=(num*num*num)+rem*10;
 n=n/10;
 printf("%d",num);
-
+}
