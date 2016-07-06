@@ -10,9 +10,14 @@ if(n>0)
 {
 printf("\n number is positive");
 }
-else
+else if(n<0)
 {
 printf("\n number is negative");
+}
+else if(n==0)
+{
+  printf("\n number is zero");
+}
 }
 getch();
 }
