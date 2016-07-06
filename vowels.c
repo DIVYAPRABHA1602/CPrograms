@@ -7,7 +7,7 @@ printf("\n enter the char");
 scanf("%d",&c);
 switch(ch)
 {
-case 'a:
+case 'a':
 printf("|n vowel");
 case 'e':
 printf("\n vowel");
